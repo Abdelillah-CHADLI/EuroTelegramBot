@@ -1,1 +1,1 @@
-"# EuroTelegramBot" 
+Euro Telegram Bot
